@@ -1,0 +1,30 @@
+figcaption{
+  bottom: 30px;
+  width: 80%;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+figure img{
+  cursor: pointer;
+}
+.slider{
+  background-color: rgba(0, 0, 0, 0.5);
+  inset: 0;
+}
+.slider-item{
+  background-image: url('../imgs/portfolio-3.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 70%;
+  width: 50%;
+}
+#closeBtn{
+  position: absolute;
+  top:20px;
+  right: 15px;
+}
+i{
+  font-size: 20px;
+  cursor: pointer;
+}
